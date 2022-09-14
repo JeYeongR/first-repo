@@ -1,4 +1,4 @@
-## dinner
+## Menu for Lunch
 
 1. Chicken
 2. Bearsoup
@@ -6,7 +6,7 @@
 
 ## New candidates
 
-4. Kimchi soup
-5. Soy sauce soup
-6. Troops soup
+4. Steak
+5. Pizza
+6. Donut
 7. Bibimbob
